@@ -83,7 +83,7 @@ def submit():
 
         result.config(text = "Enter Your Name")
 
-    elif Gender_storage.get() == 0 :
+    elif Gender_storage.get() == "":
 
         result.config( text = "Enter Your Gender")
 
