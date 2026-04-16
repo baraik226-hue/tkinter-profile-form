@@ -3,6 +3,7 @@
 This is a simple GUI project I built using Python tkinter while learning how to create desktop applications.
 
 The idea was to make a basic user form where someone can enter their details like :-
+
 (1)name
 (2)gender
 (3)course
