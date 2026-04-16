@@ -4,13 +4,13 @@ This is a simple GUI project I built using Python tkinter while learning how to 
 
 The idea was to make a basic user form where someone can enter their details like :-
 
-(1)name
+(1) name
 
-(2)gender
+(2) gender
 
-(3)course
+(3) course
 
-(4)experience level
+(4) experience level
 
 I also added a basic validation to make sure all required details are filled before submitting.
 
